@@ -1,0 +1,5 @@
+file=open("sreelekha.txt",'r')
+a=file.read()
+# print(a)
+file.close()
+print(a)
